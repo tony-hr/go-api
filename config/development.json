@@ -1,0 +1,17 @@
+{
+    "app": {
+        "name": "Api GoLang",
+        "port": 1323
+    },
+    "database": {
+        "host": "localhost",
+        "port": 3306,
+        "username": "root",
+        "password": "rahasia",
+        "dbname": "go_api"
+    },
+    "jwt": {
+        "secret_key": "key_G04pi!",
+        "duration": 2
+    }
+}
