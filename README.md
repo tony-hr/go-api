@@ -27,4 +27,4 @@ $ go run main.go
 
 Untuk menjalankan migration dengan seeder
 
-`DBEVENT=migrate go run main.go`
+```DBEVENT=migrate go run main.go```
