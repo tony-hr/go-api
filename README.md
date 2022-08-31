@@ -1,5 +1,5 @@
 ## General info
-Go-Api adalah simple project CRUD menggunakan GoLang
+Go-Api adalah simple project menggunakan GoLang dengan penggunaan HTTP Request
 
 
 ## Technologies
