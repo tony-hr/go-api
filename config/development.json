@@ -1,0 +1,21 @@
+{
+    "app": {
+        "name": "Api GoLang",
+        "port": 1323
+    },
+    "database": {
+        "host": "localhost",
+        "port": 5432,
+        "username": "tonyhr",
+        "password": "rahasia",
+        "dbname": "go-api",
+        "timezone": "Asia/Jakarta"
+    },
+    "jwt": {
+        "secret_key": "key_G04pi!",
+        "duration": 2
+    },
+    "extparty": {
+        "dans_host": "http://dev3.dansmultipro.co.id"
+    }
+}
